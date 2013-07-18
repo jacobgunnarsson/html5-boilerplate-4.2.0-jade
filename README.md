@@ -1,4 +1,4 @@
-## A Jade 4.2.0 HTML5 Boilerplate implementation
+## A Jade 4.2.0 HTML5 Boilerplate port
 
 ### What is this?
 
